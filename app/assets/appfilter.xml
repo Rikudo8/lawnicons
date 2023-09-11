@@ -36,6 +36,7 @@
   <item drawableIgnore="true" component="ComponentInfo{org.withouthat.acalendar/org.withouthat.acalendar.ACalendar}" drawable="themed_icon_calendar_31" name="Calendar" />
   <item drawableIgnore="true" component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
   <!-- Lawnicons -->
+   <item component="ComponentInfo{jp.co.sony.mc.videoeditor/jp.co.sony.mc.videoeditor.VideoEditorActivity}" drawable="sony_videocreator" name="Video Creator"/>
   <item component="ComponentInfo{jp.co.sony.mc.videopro/jp.co.sony.mc.videopro.VideoProActivity}" drawable="sony_videopro2" name="Video Pro"/>
   <item component="ComponentInfo{com.sonymobile.cinemapro/com.sonymobile.cinemapro.CinemaProActivity}" drawable="sony_cinemapro2" name="Cinema Pro"/>
   <item component="ComponentInfo{com.sonymobile.gameenhancer/com.sonymobile.gameenhancer.common.MainActivity}" drawable="sony_gameenhancer2" name="Game enhancer"/>
